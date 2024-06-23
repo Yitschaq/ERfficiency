@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="urgency" table="x_1444837_erficc_0_patient" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>urgency</element>
+            <name>x_1444837_erficc_0_patient</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-19 02:47:40</sys_created_on>
+            <sys_id>a231ef3693720210c3aff8d32bba1012</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>urgency</sys_name>
+            <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+            <sys_update_name>sys_choice_x_1444837_erficc_0_patient_urgency</sys_update_name>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-19 02:47:40</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

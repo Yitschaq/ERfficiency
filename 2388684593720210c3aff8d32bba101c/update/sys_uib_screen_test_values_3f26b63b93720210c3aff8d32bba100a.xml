@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{}</macroponent_config>
+        <screen display_value="Order success Default">9c4f623331720210d643b29a135005aa</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-22 02:13:32</sys_created_on>
+        <sys_id>3f26b63b93720210c3aff8d32bba100a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_3f26b63b93720210c3aff8d32bba100a</sys_update_name>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-22 02:13:32</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

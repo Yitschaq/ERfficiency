@@ -21,7 +21,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field>email</field>
+        <field>last_name</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -41,13 +41,13 @@
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>email</name>
-        <order>400</order>
+        <name>last_name</name>
+        <order>200</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Please enter your email address?</question_text>
+        <question_text>Please enter your last name</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -75,16 +75,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>david.renteria</sys_created_by>
-        <sys_created_on>2024-06-21 03:49:52</sys_created_on>
-        <sys_id>e152866b93b20210c3aff8d32bba104a</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Please enter your email address?</sys_name>
-        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_created_on>2024-06-23 02:41:08</sys_created_on>
+        <sys_id>3ef50c9093470210c3aff8d32bba104b</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Please enter your last name</sys_name>
+        <sys_package/>
         <sys_policy/>
         <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
-        <sys_update_name>item_option_new_e152866b93b20210c3aff8d32bba104a</sys_update_name>
+        <sys_update_name>item_option_new_3ef50c9093470210c3aff8d32bba104b</sys_update_name>
         <sys_updated_by>david.renteria</sys_updated_by>
-        <sys_updated_on>2024-06-23 02:54:36</sys_updated_on>
+        <sys_updated_on>2024-06-23 02:54:38</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>
@@ -103,22 +103,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=e152866b93b20210c3aff8d32bba104a"/>
-    <fx_price action="delete_multiple" query="id=e152866b93b20210c3aff8d32bba104a"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=3ef50c9093470210c3aff8d32bba104b"/>
+    <fx_price action="delete_multiple" query="id=3ef50c9093470210c3aff8d32bba104b"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>e152866b93b20210c3aff8d32bba104a</id>
+        <id>3ef50c9093470210c3aff8d32bba104b</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>david.renteria</sys_created_by>
-        <sys_created_on>2024-06-21 03:49:53</sys_created_on>
-        <sys_id>55a20e6b93b20210c3aff8d32bba1024</sys_id>
+        <sys_created_on>2024-06-23 02:41:09</sys_created_on>
+        <sys_id>8616081493470210c3aff8d32bba10b8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>david.renteria</sys_updated_by>
-        <sys_updated_on>2024-06-21 03:49:53</sys_updated_on>
+        <sys_updated_on>2024-06-23 02:41:09</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -126,16 +126,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>e152866b93b20210c3aff8d32bba104a</id>
+        <id>3ef50c9093470210c3aff8d32bba104b</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>david.renteria</sys_created_by>
-        <sys_created_on>2024-06-21 03:49:53</sys_created_on>
-        <sys_id>09a20e6b93b20210c3aff8d32bba1023</sys_id>
+        <sys_created_on>2024-06-23 02:41:09</sys_created_on>
+        <sys_id>ca16081493470210c3aff8d32bba10b6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>david.renteria</sys_updated_by>
-        <sys_updated_on>2024-06-21 03:49:53</sys_updated_on>
+        <sys_updated_on>2024-06-23 02:41:09</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>

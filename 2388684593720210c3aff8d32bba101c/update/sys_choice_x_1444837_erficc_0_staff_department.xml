@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="department" table="x_1444837_erficc_0_staff" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>department</element>
+            <name>x_1444837_erficc_0_staff</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 02:00:53</sys_created_on>
+            <sys_id>80ecfb0893070210c3aff8d32bba1075</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>department</sys_name>
+            <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+            <sys_update_name>sys_choice_x_1444837_erficc_0_staff_department</sys_update_name>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 02:00:53</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Billing</label>
+            <language>en</language>
+            <name>x_1444837_erficc_0_staff</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 02:00:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d0ecfb0893070210c3aff8d32bba10e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 02:00:53</sys_updated_on>
+            <value>Billing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cardiology</label>
+            <language>en</language>
+            <name>x_1444837_erficc_0_staff</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 02:00:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88ecfb0893070210c3aff8d32bba1074</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 02:00:53</sys_updated_on>
+            <value>Cardiology</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Customer Service</label>
+            <language>en</language>
+            <name>x_1444837_erficc_0_staff</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 02:00:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54ecfb0893070210c3aff8d32bba10e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 02:00:53</sys_updated_on>
+            <value>Customer Service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dermatology</label>
+            <language>en</language>
+            <name>x_1444837_erficc_0_staff</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 02:00:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88ecfb0893070210c3aff8d32bba1079</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 02:00:53</sys_updated_on>
+            <value>Dermatology</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Emergency Medicine</label>
+            <language>en</language>
+            <name>x_1444837_erficc_0_staff</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 02:00:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40ecfb0893070210c3aff8d32bba107d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 02:00:53</sys_updated_on>
+            <value>Emergency Medicine</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gastroenterology</label>
+            <language>en</language>
+            <name>x_1444837_erficc_0_staff</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 02:00:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90ecfb0893070210c3aff8d32bba10cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 02:00:53</sys_updated_on>
+            <value>Gastroenterology</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Neurology</label>
+            <language>en</language>
+            <name>x_1444837_erficc_0_staff</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 02:00:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>58ecfb0893070210c3aff8d32bba10ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 02:00:53</sys_updated_on>
+            <value>Neurology</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Oncology</label>
+            <language>en</language>
+            <name>x_1444837_erficc_0_staff</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 02:00:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10ecfb0893070210c3aff8d32bba10d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 02:00:53</sys_updated_on>
+            <value>Oncology</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Orthopedics</label>
+            <language>en</language>
+            <name>x_1444837_erficc_0_staff</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 02:00:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4ecfb0893070210c3aff8d32bba10d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 02:00:53</sys_updated_on>
+            <value>Orthopedics</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Phlebotomy</label>
+            <language>en</language>
+            <name>x_1444837_erficc_0_staff</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 02:00:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9cecfb0893070210c3aff8d32bba10d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 02:00:53</sys_updated_on>
+            <value>Phlebotomy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Psychiatry</label>
+            <language>en</language>
+            <name>x_1444837_erficc_0_staff</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 02:00:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54ecfb0893070210c3aff8d32bba10dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 02:00:53</sys_updated_on>
+            <value>Psychiatry</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Radiology</label>
+            <language>en</language>
+            <name>x_1444837_erficc_0_staff</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 02:00:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1cecfb0893070210c3aff8d32bba10df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 02:00:53</sys_updated_on>
+            <value>Radiology</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

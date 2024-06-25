@@ -4,7 +4,7 @@
         <misc>0</misc>
         <order>100</order>
         <published_ref/>
-        <question display_value="Is your emergency critical (life-threatening) or not?">94c5b5ab93720210c3aff8d32bba109f</question>
+        <question display_value="Is your emergency critical (life-threatening)?">94c5b5ab93720210c3aff8d32bba109f</question>
         <rec_misc>0</rec_misc>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>david.renteria</sys_created_by>

@@ -46,7 +46,7 @@
         <order>0</order>
         <ordered_item_link/>
         <owner display_value="David Renteria">f4bc9cc593320210c3aff8d32bba10e3</owner>
-        <picture>ff0453fb93f20210c3aff8d32bba1034</picture>
+        <picture/>
         <post_insert_script><![CDATA[/**
 * This script is executed after the record is generated. 
 * `current` Is the GlideRecord produced by Record Producer. Use `current.update()` to update the record
@@ -87,14 +87,14 @@
         <sys_created_by>david.renteria</sys_created_by>
         <sys_created_on>2024-06-21 02:39:21</sys_created_on>
         <sys_id>c082b9a793720210c3aff8d32bba1081</sys_id>
-        <sys_mod_count>40</sys_mod_count>
+        <sys_mod_count>43</sys_mod_count>
         <sys_name>New Patient</sys_name>
         <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
         <sys_policy/>
         <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
         <sys_update_name>sc_cat_item_producer_c082b9a793720210c3aff8d32bba1081</sys_update_name>
-        <sys_updated_by>david.renteria</sys_updated_by>
-        <sys_updated_on>2024-06-23 02:54:39</sys_updated_on>
+        <sys_updated_by>yitschaq.abia</sys_updated_by>
+        <sys_updated_on>2024-06-25 04:20:29</sys_updated_on>
         <table_name>x_1444837_erficc_0_patients</table_name>
         <taxonomy_topic/>
         <template/>
@@ -102,7 +102,7 @@
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>39</version>
+        <version>42</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>

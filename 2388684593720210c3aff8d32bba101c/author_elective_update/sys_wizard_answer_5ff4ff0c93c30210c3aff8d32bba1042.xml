@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Providers</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Providers</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">822c08acd9313110cedf7dffddb48f8c</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-23 01:26:25</sys_created_on>
+        <sys_id>5ff4ff0c93c30210c3aff8d32bba1042</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Providers</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_update_name>sys_wizard_answer_5ff4ff0c93c30210c3aff8d32bba1042</sys_update_name>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-23 01:26:25</sys_updated_on>
+        <table/>
+        <target_url>x_1444837_erficc_0_providers.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ERficciency">2388684593720210c3aff8d32bba101c</application>
+        <file_path/>
+        <instance_id>d143b0b1dbb93dd0199b172913961986</instance_id>
+        <instance_name>dev182463</instance_name>
+        <name>sys_wizard_answer_5ff4ff0c93c30210c3aff8d32bba1042</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Providers</answer><button_label/><dependent_value/><element/><name>Providers</name><next_question/><order>100</order><payload_name/><question display_value="Base Configuration Item" name="Base Configuration Item">822c08acd9313110cedf7dffddb48f8c</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>david.renteria</sys_created_by><sys_created_on>2024-06-23 01:26:25</sys_created_on><sys_id>5ff4ff0c93c30210c3aff8d32bba1042</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Providers</sys_name><sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package><sys_policy/><sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope><sys_update_name>sys_wizard_answer_5ff4ff0c93c30210c3aff8d32bba1042</sys_update_name><sys_updated_by>david.renteria</sys_updated_by><sys_updated_on>2024-06-23 01:26:25</sys_updated_on><table/><target_url>x_1444837_erficc_0_providers.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-2007171874</payload_hash>
+        <record_name>Providers</record_name>
+        <reverted_from/>
+        <source>91ea181093220210c3aff8d32bba10d4</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-05-29 07:40:39</sys_created_on>
+        <sys_id>1b9537cc93c30210c3aff8d32bba1097</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18fc34b3cd80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>d79537cc3fc30210ec5c4d5aa1758397</update_guid>
+        <update_guid_history>d79537cc3fc30210ec5c4d5aa1758397:-2007171874</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-23 01:29:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>2f76bd5489e04a13945b8aad78257521</sys_id>
+        <sys_metadata>5ff4ff0c93c30210c3aff8d32bba1042</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Providers</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_parent display_value="Base Configuration Item">822c08acd9313110cedf7dffddb48f8c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_scope_delete display_value="">10d1870a20a44b9c85631c7f5ccdab90</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_5ff4ff0c93c30210c3aff8d32bba1042</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_5ff4ff0c93c30210c3aff8d32bba1042">1b9537cc93c30210c3aff8d32bba1097</sys_update_version>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-23 01:29:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

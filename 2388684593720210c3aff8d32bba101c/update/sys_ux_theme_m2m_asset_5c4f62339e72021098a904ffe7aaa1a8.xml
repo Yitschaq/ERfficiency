@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_m2m_asset">
     <sys_ux_theme_m2m_asset action="INSERT_OR_UPDATE">
-        <asset display_value="now-logo-dark">944f62335e720210286a19d4d2b60aa9</asset>
+        <asset display_value="erficciency">944f62335e720210286a19d4d2b60aa9</asset>
         <properties>{&#13;
 "position": "header_logo"&#13;
 }</properties>

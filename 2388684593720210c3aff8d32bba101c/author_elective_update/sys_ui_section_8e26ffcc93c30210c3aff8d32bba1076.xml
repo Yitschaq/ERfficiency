@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Generated Record Data" section_id="8e26ffcc93c30210c3aff8d32bba1076" sys_domain="global" table="x_1444837_erficc_0_providers" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>maint</sys_created_by>
+            <sys_created_on>2014-01-22 00:54:36</sys_created_on>
+            <sys_id>1a54a46747d211006716d8966c9a71f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>maint</sys_updated_by>
+            <sys_updated_on>2014-01-22 00:54:36</sys_updated_on>
+            <text>Record Producer Form Generated Record Data Section Description</text>
+            <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>1a54a46747d211006716d8966c9a71f2</element>
+            <position>0</position>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 01:31:31</sys_created_on>
+            <sys_id>ce26ffcc93c30210c3aff8d32bba1077</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Generated Record Data" display_value="Generated Record Data" name="x_1444837_erficc_0_providers" sys_domain="global" view="Default view">8e26ffcc93c30210c3aff8d32bba1076</sys_ui_section>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 01:31:31</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>template</element>
+            <position>1</position>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 01:31:31</sys_created_on>
+            <sys_id>c226ffcc93c30210c3aff8d32bba1078</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Generated Record Data" display_value="Generated Record Data" name="x_1444837_erficc_0_providers" sys_domain="global" view="Default view">8e26ffcc93c30210c3aff8d32bba1076</sys_ui_section>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 01:31:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Generated Record Data</caption>
+            <header>false</header>
+            <name>x_1444837_erficc_0_providers</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 01:31:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8e26ffcc93c30210c3aff8d32bba1076</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1444837_erficc_0_providers</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+            <sys_update_name>sys_ui_section_8e26ffcc93c30210c3aff8d32bba1076</sys_update_name>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 01:31:31</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ERficciency">2388684593720210c3aff8d32bba101c</application>
+        <file_path/>
+        <instance_id>d143b0b1dbb93dd0199b172913961986</instance_id>
+        <instance_name>dev182463</instance_name>
+        <name>sys_ui_section_8e26ffcc93c30210c3aff8d32bba1076</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Generated Record Data" section_id="8e26ffcc93c30210c3aff8d32bba1076" sys_domain="global" table="x_1444837_erficc_0_providers" version="3" view=""><sys_ui_annotation action="INSERT_OR_UPDATE"><is_plain_text>false</is_plain_text><sys_created_by>maint</sys_created_by><sys_created_on>2014-01-22 00:54:36</sys_created_on><sys_id>1a54a46747d211006716d8966c9a71f2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>maint</sys_updated_by><sys_updated_on>2014-01-22 00:54:36</sys_updated_on><text>Record Producer Form Generated Record Data Section Description</text><type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type></sys_ui_annotation><sys_ui_element action="INSERT_OR_UPDATE"><element>1a54a46747d211006716d8966c9a71f2</element><position>0</position><sys_created_by>david.renteria</sys_created_by><sys_created_on>2024-06-23 01:31:31</sys_created_on><sys_id>ce26ffcc93c30210c3aff8d32bba1077</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Generated Record Data" display_value="Generated Record Data" name="x_1444837_erficc_0_providers" sys_domain="global" view="Default view">8e26ffcc93c30210c3aff8d32bba1076</sys_ui_section><sys_updated_by>david.renteria</sys_updated_by><sys_updated_on>2024-06-23 01:31:31</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>template</element><position>1</position><sys_created_by>david.renteria</sys_created_by><sys_created_on>2024-06-23 01:31:31</sys_created_on><sys_id>c226ffcc93c30210c3aff8d32bba1078</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Generated Record Data" display_value="Generated Record Data" name="x_1444837_erficc_0_providers" sys_domain="global" view="Default view">8e26ffcc93c30210c3aff8d32bba1076</sys_ui_section><sys_updated_by>david.renteria</sys_updated_by><sys_updated_on>2024-06-23 01:31:31</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Generated Record Data</caption><header>false</header><name>x_1444837_erficc_0_providers</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>david.renteria</sys_created_by><sys_created_on>2024-06-23 01:31:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8e26ffcc93c30210c3aff8d32bba1076</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1444837_erficc_0_providers</sys_name><sys_overrides/><sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package><sys_policy/><sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope><sys_update_name>sys_ui_section_8e26ffcc93c30210c3aff8d32bba1076</sys_update_name><sys_updated_by>david.renteria</sys_updated_by><sys_updated_on>2024-06-23 01:31:31</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-576745689</payload_hash>
+        <record_name>Providers</record_name>
+        <reverted_from/>
+        <source>6788684593720210c3aff8d32bba1020</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-23 01:31:31</sys_created_on>
+        <sys_id>c226ffcc93c30210c3aff8d32bba107a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19042b847810000001</sys_recorded_at>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-23 01:31:31</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>4a26ffcc58c302105698bbca13629379</update_guid>
+        <update_guid_history>4a26ffcc58c302105698bbca13629379:-576745689</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-23 01:32:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>25457956b96c4540b5832ce1da44dea4</sys_id>
+        <sys_metadata>8e26ffcc93c30210c3aff8d32bba1076</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Generated Record Data</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_parent display_value="">6126bfcc93c30210c3aff8d32bba10a6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_scope_delete display_value="">10d1870a20a44b9c85631c7f5ccdab90</sys_scope_delete>
+        <sys_update_name>sys_ui_section_8e26ffcc93c30210c3aff8d32bba1076</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_8e26ffcc93c30210c3aff8d32bba1076">c226ffcc93c30210c3aff8d32bba107a</sys_update_version>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-23 01:32:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

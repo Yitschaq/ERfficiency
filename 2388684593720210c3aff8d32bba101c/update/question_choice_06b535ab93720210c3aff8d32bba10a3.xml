@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
     <question_choice action="INSERT_OR_UPDATE">
         <inactive>false</inactive>
-        <misc>0</misc>
         <order>400</order>
         <published_ref/>
         <question display_value="Please select a category for your medical issue">9824792b93720210c3aff8d32bba1008</question>
-        <rec_misc>0</rec_misc>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>david.renteria</sys_created_by>
         <sys_created_on>2024-06-21 02:53:25</sys_created_on>

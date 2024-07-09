@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1444837_erficc_0_patients</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-13 03:24:55</sys_created_on>
+        <sys_id>35303c8d93720210c3aff8d32bba10c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1444837_erficc_0_patients</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_update_name>sys_security_acl_35303c8d93720210c3aff8d32bba10c0</sys_update_name>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-13 03:24:55</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ERficciency">2388684593720210c3aff8d32bba101c</application>
+        <file_path/>
+        <instance_id>d143b0b1dbb93dd0199b172913961986</instance_id>
+        <instance_name>dev182463</instance_name>
+        <name>sys_security_acl_35303c8d93720210c3aff8d32bba10c0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><local_or_existing>Local</local_or_existing><name>x_1444837_erficc_0_patients</name><operation display_value="create">create</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>david.renteria</sys_created_by><sys_created_on>2024-06-13 03:24:55</sys_created_on><sys_id>35303c8d93720210c3aff8d32bba10c0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1444837_erficc_0_patients</sys_name><sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package><sys_policy/><sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope><sys_update_name>sys_security_acl_35303c8d93720210c3aff8d32bba10c0</sys_update_name><sys_updated_by>david.renteria</sys_updated_by><sys_updated_on>2024-06-13 03:24:55</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-839552565</payload_hash>
+        <record_name>x_1444837_erficc_0_patients</record_name>
+        <reverted_from/>
+        <source>6788684593720210c3aff8d32bba1020</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-13 03:24:55</sys_created_on>
+        <sys_id>fd303c8d93720210c3aff8d32bba10c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1900fa081760000001</sys_recorded_at>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-13 03:24:55</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>35303c8d5f7202101eca025c788d6ec2</update_guid>
+        <update_guid_history>35303c8d5f7202101eca025c788d6ec2:-839552565</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-13 03:31:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>597bdc6efd644a2bb8137136208ad239</sys_id>
+        <sys_metadata>35303c8d93720210c3aff8d32bba10c0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1444837_erficc_0_patients</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_parent display_value="">c530f88d93720210c3aff8d32bba10ab</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_scope_delete display_value="">10d1870a20a44b9c85631c7f5ccdab90</sys_scope_delete>
+        <sys_update_name>sys_security_acl_35303c8d93720210c3aff8d32bba10c0</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_35303c8d93720210c3aff8d32bba10c0">fd303c8d93720210c3aff8d32bba10c2</sys_update_version>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-13 03:31:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

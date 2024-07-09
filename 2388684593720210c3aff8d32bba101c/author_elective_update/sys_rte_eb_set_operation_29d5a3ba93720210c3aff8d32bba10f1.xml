@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_set_operation">
+    <sys_rte_eb_set_operation action="DELETE">
+        <conditional_fields/>
+        <conditional_script><![CDATA[/* Example Script
+(function(batch, output) {
+    for (var i = 0; i < batch.length; i++) {
+        
+        // step1: access the input variables
+        var a = batch[i].input;
+
+        // step2: your script code goes here
+        // based on the input variables assign variable 'b' to true or false.
+        var b = true; // or false;
+
+        // step3: set the output for each element
+        output[i] = b;
+    }
+})(batch, output);
+*/
+(function(batch, output) {
+    // add your code here
+    
+})(batch, output);]]></conditional_script>
+        <is_conditional>false</is_conditional>
+        <name>SET_sn_ihub_target_opened_by</name>
+        <operation_group/>
+        <order>0</order>
+        <overwrite_existing_value>false</overwrite_existing_value>
+        <set_value/>
+        <source_sys_rte_eb_field/>
+        <source_sys_rte_eb_fields/>
+        <sys_class_name>sys_rte_eb_set_operation</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-19 03:07:48</sys_created_on>
+        <sys_id>29d5a3ba93720210c3aff8d32bba10f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SET_sn_ihub_target_opened_by</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Patient Data Mapping_etl_ihub">192d5b7e93320210c3aff8d32bba1075</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_x_1444837_erficc_0_patient">6dd5a3ba93720210c3aff8d32bba10b0</sys_rte_eb_entity>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_update_name>sys_rte_eb_set_operation_29d5a3ba93720210c3aff8d32bba10f1</sys_update_name>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-19 03:07:48</sys_updated_on>
+        <target_sys_rte_eb_field display_value="sn_ihub_target_opened_by">21d5a3ba93720210c3aff8d32bba10cc</target_sys_rte_eb_field>
+        <target_sys_rte_eb_fields/>
+        <type display_value="Set">c588011e730000102b6265a751ab9e4a</type>
+    </sys_rte_eb_set_operation>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ERficciency">2388684593720210c3aff8d32bba101c</application>
+        <file_path/>
+        <instance_id>d143b0b1dbb93dd0199b172913961986</instance_id>
+        <instance_name>dev182463</instance_name>
+        <name>sys_rte_eb_set_operation_29d5a3ba93720210c3aff8d32bba10f1</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_rte_eb_set_operation"&gt;&lt;sys_rte_eb_set_operation action="INSERT_OR_UPDATE"&gt;&lt;conditional_fields/&gt;&lt;conditional_script&gt;&lt;![CDATA[/* Example Script
+(function(batch, output) {
+    for (var i = 0; i &lt; batch.length; i++) {
+        
+        // step1: access the input variables
+        var a = batch[i].input;
+
+        // step2: your script code goes here
+        // based on the input variables assign variable 'b' to true or false.
+        var b = true; // or false;
+
+        // step3: set the output for each element
+        output[i] = b;
+    }
+})(batch, output);
+*/
+(function(batch, output) {
+    // add your code here
+    
+})(batch, output);]]&gt;&lt;/conditional_script&gt;&lt;is_conditional&gt;false&lt;/is_conditional&gt;&lt;name&gt;SET_sn_ihub_target_opened_by&lt;/name&gt;&lt;operation_group/&gt;&lt;order&gt;0&lt;/order&gt;&lt;overwrite_existing_value&gt;false&lt;/overwrite_existing_value&gt;&lt;set_value/&gt;&lt;source_sys_rte_eb_field/&gt;&lt;source_sys_rte_eb_fields/&gt;&lt;sys_class_name&gt;sys_rte_eb_set_operation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;david.renteria&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-06-19 03:07:48&lt;/sys_created_on&gt;&lt;sys_id&gt;29d5a3ba93720210c3aff8d32bba10f1&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;SET_sn_ihub_target_opened_by&lt;/sys_name&gt;&lt;sys_package display_value="ERficciency" source="x_1444837_erficc_0"&gt;2388684593720210c3aff8d32bba101c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_rte_eb_definition display_value="Patient Data Mapping_etl_ihub"&gt;192d5b7e93320210c3aff8d32bba1075&lt;/sys_rte_eb_definition&gt;&lt;sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_x_1444837_erficc_0_patient"&gt;6dd5a3ba93720210c3aff8d32bba10b0&lt;/sys_rte_eb_entity&gt;&lt;sys_scope display_value="ERficciency"&gt;2388684593720210c3aff8d32bba101c&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_rte_eb_set_operation_29d5a3ba93720210c3aff8d32bba10f1&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;david.renteria&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-06-19 03:07:48&lt;/sys_updated_on&gt;&lt;target_sys_rte_eb_field display_value="sn_ihub_target_opened_by"&gt;21d5a3ba93720210c3aff8d32bba10cc&lt;/target_sys_rte_eb_field&gt;&lt;target_sys_rte_eb_fields/&gt;&lt;type display_value="Set"&gt;c588011e730000102b6265a751ab9e4a&lt;/type&gt;&lt;/sys_rte_eb_set_operation&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1611219289</payload_hash>
+        <record_name>SET_sn_ihub_target_opened_by</record_name>
+        <reverted_from/>
+        <source>6788684593720210c3aff8d32bba1020</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-19 03:07:48</sys_created_on>
+        <sys_id>e5d5a3ba93720210c3aff8d32bba10f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1902e76ff340000001</sys_recorded_at>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-19 03:07:48</sys_updated_on>
+        <type>RTE Entity Set Operation</type>
+        <update_guid>2dd5a3ba2772021024a67de3d2d6fcf2</update_guid>
+        <update_guid_history>2dd5a3ba2772021024a67de3d2d6fcf2:-1611219289</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-21 01:40:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_set_operation">sys_rte_eb_set_operation</sys_db_object>
+        <sys_id>15a8e69526ca4e80be8ecd15365c4000</sys_id>
+        <sys_metadata>29d5a3ba93720210c3aff8d32bba10f1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SET_sn_ihub_target_opened_by</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_scope_delete display_value="">10d1870a20a44b9c85631c7f5ccdab90</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_set_operation_29d5a3ba93720210c3aff8d32bba10f1</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_set_operation_29d5a3ba93720210c3aff8d32bba10f1">e5d5a3ba93720210c3aff8d32bba10f3</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-21 01:40:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

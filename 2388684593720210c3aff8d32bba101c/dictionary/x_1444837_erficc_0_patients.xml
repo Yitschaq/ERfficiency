@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7563405093470210c3aff8d32bba10f8" label="Patients" max_length="40" name="x_1444837_erficc_0_patients" type="collection">
+        <element label="Assigned To" max_length="32" name="assigned_to" reference="x_1444837_erficc_0_staff" type="reference"/>
+        <element label="Assignment Group" max_length="32" name="assignment_group" reference="sys_user_group" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Category" mandatory="true" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cardiology" sequence="0" value="Cardiology"/>
+                <element inactive_on_update="false" label="Emergency medicine" sequence="0" value="Emergency medicine"/>
+                <element inactive_on_update="false" label="Gastroenterology" sequence="0" value="Gastroenterology"/>
+                <element inactive_on_update="false" label="Neurology" sequence="0" value="Neurology"/>
+                <element inactive_on_update="false" label="Orthopedics" sequence="0" value="Orthopedics"/>
+                <element inactive_on_update="false" label="Pulmonology" sequence="0" value="Pulmonology"/>
+                <element inactive_on_update="false" label="Radiology" sequence="0" value="Radiology"/>
+            </choice>
+        </element>
+        <element label="Email" mandatory="true" max_length="40" name="email" type="email"/>
+        <element attributes="edge_encryption_enabled=true" label="First Name" mandatory="true" max_length="40" name="first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Gender" mandatory="true" max_length="40" name="gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Female" sequence="0" value="Female"/>
+                <element inactive_on_update="false" label="Male" sequence="0" value="Male"/>
+            </choice>
+        </element>
+        <element label="Insurance" mandatory="true" max_length="40" name="insurance" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" mandatory="true" max_length="40" name="last_name" type="string"/>
+        <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Phone Number" mandatory="true" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Priority" max_length="40" name="priority" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="critical" sequence="0" value="critical"/>
+                <element inactive_on_update="false" label="non-critical" sequence="0" value="non-critical"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" mandatory="true" max_length="250" name="short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="closed" sequence="0" value="closed"/>
+                <element inactive_on_update="false" label="enroute" sequence="0" value="enroute"/>
+                <element inactive_on_update="false" label="open" sequence="0" value="open"/>
+                <element inactive_on_update="false" label="pending" sequence="0" value="pending"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="User ID" max_length="60" name="user_id" type="string"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="assignment_group"/>
+        </index>
+        <index name="index3">
+            <element name="location"/>
+        </index>
+        <index name="index4">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

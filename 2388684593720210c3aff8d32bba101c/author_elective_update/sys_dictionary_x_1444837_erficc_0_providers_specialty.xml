@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="specialty" table="x_1444837_erficc_0_providers">
+        <active>true</active>
+        <array>false</array>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>1</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Specialty</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>specialty</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Choice">choice</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_1444837_erficc_0_providers</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-22 02:28:11</sys_created_on>
+        <sys_id>d689f63f93720210c3aff8d32bba1008</sys_id>
+        <sys_name>Specialty</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_update_name>sys_dictionary_x_1444837_erficc_0_providers_specialty</sys_update_name>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-22 02:28:11</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ERficciency">2388684593720210c3aff8d32bba101c</application>
+        <file_path/>
+        <instance_id>d143b0b1dbb93dd0199b172913961986</instance_id>
+        <instance_name>dev182463</instance_name>
+        <name>sys_dictionary_x_1444837_erficc_0_providers_specialty</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="specialty" table="x_1444837_erficc_0_providers"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>1</choice><choice_field/><choice_table/><column_label>Specialty</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>specialty</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Choice">choice</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_1444837_erficc_0_providers</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>david.renteria</sys_created_by><sys_created_on>2024-06-22 02:28:11</sys_created_on><sys_id>d689f63f93720210c3aff8d32bba1008</sys_id><sys_name>Specialty</sys_name><sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package><sys_policy/><sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope><sys_update_name>sys_dictionary_x_1444837_erficc_0_providers_specialty</sys_update_name><sys_updated_by>david.renteria</sys_updated_by><sys_updated_on>2024-06-22 02:28:11</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>2009739553</payload_hash>
+        <record_name>Providers.Specialty</record_name>
+        <reverted_from/>
+        <source>6788684593720210c3aff8d32bba1020</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-22 02:28:12</sys_created_on>
+        <sys_id>ea89f63f93720210c3aff8d32bba1084</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1903dc5ceaf0000001</sys_recorded_at>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-22 02:28:12</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>e289f63ff872021056fd069fe46cfd84</update_guid>
+        <update_guid_history>e289f63ff872021056fd069fe46cfd84:2009739553,9a89f63fe57202105505df1fb2fe7562:538392641,88556da78f32021096868781f6f5991e:1171309310,d1eeda62f1b20210b9df2ebede21f497:2042426442,ef1e5a2289b20210b5714b0d0ca0f38d:2009739553,231e5a2212b2021075d7565dabe3e354:538392641,a5bc96ae6c72021038b294ca0f226f0a:-2147223922,4337522a1972021070ea67bdec8b0e54:-1605788478,e5f49666c8720210d208480efd409e6a:2141485371</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-23 00:41:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>6d0b2e8f27514430b8b42005eb992c40</sys_id>
+        <sys_metadata>d689f63f93720210c3aff8d32bba1008</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Specialty</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_parent display_value="">b589b63f93720210c3aff8d32bba1071</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_scope_delete display_value="">10d1870a20a44b9c85631c7f5ccdab90</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1444837_erficc_0_providers_specialty</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1444837_erficc_0_providers_specialty">ea89f63f93720210c3aff8d32bba1084</sys_update_version>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-23 00:41:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

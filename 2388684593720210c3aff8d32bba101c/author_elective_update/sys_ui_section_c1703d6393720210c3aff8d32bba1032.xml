@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="c1703d6393720210c3aff8d32bba1032" sys_domain="global" table="x_1444837_erficc_0_patients" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>yitschaq.abia</sys_created_by>
+            <sys_created_on>2024-06-22 22:28:33</sys_created_on>
+            <sys_id>c24c4bcc93030210c3aff8d32bba105b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section>
+            <sys_updated_by>yitschaq.abia</sys_updated_by>
+            <sys_updated_on>2024-06-22 22:28:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>created_by</element>
+            <position>1</position>
+            <sys_created_by>yitschaq.abia</sys_created_by>
+            <sys_created_on>2024-06-22 22:28:33</sys_created_on>
+            <sys_id>c64c4bcc93030210c3aff8d32bba105b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section>
+            <sys_updated_by>yitschaq.abia</sys_updated_by>
+            <sys_updated_on>2024-06-22 22:28:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>gender</element>
+            <position>2</position>
+            <sys_created_by>yitschaq.abia</sys_created_by>
+            <sys_created_on>2024-06-22 22:28:33</sys_created_on>
+            <sys_id>ca4c4bcc93030210c3aff8d32bba105b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section>
+            <sys_updated_by>yitschaq.abia</sys_updated_by>
+            <sys_updated_on>2024-06-22 22:28:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>3</position>
+            <sys_created_by>yitschaq.abia</sys_created_by>
+            <sys_created_on>2024-06-22 22:28:33</sys_created_on>
+            <sys_id>ce4c4bcc93030210c3aff8d32bba105b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section>
+            <sys_updated_by>yitschaq.abia</sys_updated_by>
+            <sys_updated_on>2024-06-22 22:28:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone_number</element>
+            <position>4</position>
+            <sys_created_by>yitschaq.abia</sys_created_by>
+            <sys_created_on>2024-06-22 22:28:33</sys_created_on>
+            <sys_id>c24c4bcc93030210c3aff8d32bba105c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section>
+            <sys_updated_by>yitschaq.abia</sys_updated_by>
+            <sys_updated_on>2024-06-22 22:28:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>5</position>
+            <sys_created_by>yitschaq.abia</sys_created_by>
+            <sys_created_on>2024-06-22 22:28:33</sys_created_on>
+            <sys_id>c64c4bcc93030210c3aff8d32bba105c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section>
+            <sys_updated_by>yitschaq.abia</sys_updated_by>
+            <sys_updated_on>2024-06-22 22:28:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>yitschaq.abia</sys_created_by>
+            <sys_created_on>2024-06-22 22:28:33</sys_created_on>
+            <sys_id>ca4c4bcc93030210c3aff8d32bba105c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section>
+            <sys_updated_by>yitschaq.abia</sys_updated_by>
+            <sys_updated_on>2024-06-22 22:28:33</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>7</position>
+            <sys_created_by>yitschaq.abia</sys_created_by>
+            <sys_created_on>2024-06-22 22:28:33</sys_created_on>
+            <sys_id>ce4c4bcc93030210c3aff8d32bba105c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section>
+            <sys_updated_by>yitschaq.abia</sys_updated_by>
+            <sys_updated_on>2024-06-22 22:28:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>8</position>
+            <sys_created_by>yitschaq.abia</sys_created_by>
+            <sys_created_on>2024-06-22 22:28:33</sys_created_on>
+            <sys_id>c24c4bcc93030210c3aff8d32bba105d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section>
+            <sys_updated_by>yitschaq.abia</sys_updated_by>
+            <sys_updated_on>2024-06-22 22:28:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>9</position>
+            <sys_created_by>yitschaq.abia</sys_created_by>
+            <sys_created_on>2024-06-22 22:28:33</sys_created_on>
+            <sys_id>c64c4bcc93030210c3aff8d32bba105d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section>
+            <sys_updated_by>yitschaq.abia</sys_updated_by>
+            <sys_updated_on>2024-06-22 22:28:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>10</position>
+            <sys_created_by>yitschaq.abia</sys_created_by>
+            <sys_created_on>2024-06-22 22:28:33</sys_created_on>
+            <sys_id>ca4c4bcc93030210c3aff8d32bba105d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section>
+            <sys_updated_by>yitschaq.abia</sys_updated_by>
+            <sys_updated_on>2024-06-22 22:28:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>11</position>
+            <sys_created_by>yitschaq.abia</sys_created_by>
+            <sys_created_on>2024-06-22 22:28:33</sys_created_on>
+            <sys_id>ce4c4bcc93030210c3aff8d32bba105d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section>
+            <sys_updated_by>yitschaq.abia</sys_updated_by>
+            <sys_updated_on>2024-06-22 22:28:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>insurance</element>
+            <position>12</position>
+            <sys_created_by>yitschaq.abia</sys_created_by>
+            <sys_created_on>2024-06-22 22:28:33</sys_created_on>
+            <sys_id>c24c4bcc93030210c3aff8d32bba105e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section>
+            <sys_updated_by>yitschaq.abia</sys_updated_by>
+            <sys_updated_on>2024-06-22 22:28:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_t</element>
+            <position>13</position>
+            <sys_created_by>yitschaq.abia</sys_created_by>
+            <sys_created_on>2024-06-22 22:47:03</sys_created_on>
+            <sys_id>7480db0493430210c3aff8d32bba1026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section>
+            <sys_updated_by>yitschaq.abia</sys_updated_by>
+            <sys_updated_on>2024-06-22 22:47:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1444837_erficc_0_patients</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-21 02:30:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c1703d6393720210c3aff8d32bba1032</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1444837_erficc_0_patients</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+            <sys_update_name>sys_ui_section_c1703d6393720210c3aff8d32bba1032</sys_update_name>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-21 02:30:25</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ERficciency">2388684593720210c3aff8d32bba101c</application>
+        <file_path/>
+        <instance_id>d143b0b1dbb93dd0199b172913961986</instance_id>
+        <instance_name>dev182463</instance_name>
+        <name>sys_ui_section_c1703d6393720210c3aff8d32bba1032</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="c1703d6393720210c3aff8d32bba1032" sys_domain="global" table="x_1444837_erficc_0_patients" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>yitschaq.abia</sys_created_by><sys_created_on>2024-06-22 22:28:33</sys_created_on><sys_id>c24c4bcc93030210c3aff8d32bba105b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section><sys_updated_by>yitschaq.abia</sys_updated_by><sys_updated_on>2024-06-22 22:28:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>created_by</element><position>1</position><sys_created_by>yitschaq.abia</sys_created_by><sys_created_on>2024-06-22 22:28:33</sys_created_on><sys_id>c64c4bcc93030210c3aff8d32bba105b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section><sys_updated_by>yitschaq.abia</sys_updated_by><sys_updated_on>2024-06-22 22:28:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>gender</element><position>2</position><sys_created_by>yitschaq.abia</sys_created_by><sys_created_on>2024-06-22 22:28:33</sys_created_on><sys_id>ca4c4bcc93030210c3aff8d32bba105b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section><sys_updated_by>yitschaq.abia</sys_updated_by><sys_updated_on>2024-06-22 22:28:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>email</element><position>3</position><sys_created_by>yitschaq.abia</sys_created_by><sys_created_on>2024-06-22 22:28:33</sys_created_on><sys_id>ce4c4bcc93030210c3aff8d32bba105b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section><sys_updated_by>yitschaq.abia</sys_updated_by><sys_updated_on>2024-06-22 22:28:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>phone_number</element><position>4</position><sys_created_by>yitschaq.abia</sys_created_by><sys_created_on>2024-06-22 22:28:33</sys_created_on><sys_id>c24c4bcc93030210c3aff8d32bba105c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section><sys_updated_by>yitschaq.abia</sys_updated_by><sys_updated_on>2024-06-22 22:28:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>location</element><position>5</position><sys_created_by>yitschaq.abia</sys_created_by><sys_created_on>2024-06-22 22:28:33</sys_created_on><sys_id>c64c4bcc93030210c3aff8d32bba105c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section><sys_updated_by>yitschaq.abia</sys_updated_by><sys_updated_on>2024-06-22 22:28:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>6</position><sys_created_by>yitschaq.abia</sys_created_by><sys_created_on>2024-06-22 22:28:33</sys_created_on><sys_id>ca4c4bcc93030210c3aff8d32bba105c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section><sys_updated_by>yitschaq.abia</sys_updated_by><sys_updated_on>2024-06-22 22:28:33</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>category</element><position>7</position><sys_created_by>yitschaq.abia</sys_created_by><sys_created_on>2024-06-22 22:28:33</sys_created_on><sys_id>ce4c4bcc93030210c3aff8d32bba105c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section><sys_updated_by>yitschaq.abia</sys_updated_by><sys_updated_on>2024-06-22 22:28:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>8</position><sys_created_by>yitschaq.abia</sys_created_by><sys_created_on>2024-06-22 22:28:33</sys_created_on><sys_id>c24c4bcc93030210c3aff8d32bba105d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section><sys_updated_by>yitschaq.abia</sys_updated_by><sys_updated_on>2024-06-22 22:28:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>priority</element><position>9</position><sys_created_by>yitschaq.abia</sys_created_by><sys_created_on>2024-06-22 22:28:33</sys_created_on><sys_id>c64c4bcc93030210c3aff8d32bba105d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section><sys_updated_by>yitschaq.abia</sys_updated_by><sys_updated_on>2024-06-22 22:28:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>10</position><sys_created_by>yitschaq.abia</sys_created_by><sys_created_on>2024-06-22 22:28:33</sys_created_on><sys_id>ca4c4bcc93030210c3aff8d32bba105d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section><sys_updated_by>yitschaq.abia</sys_updated_by><sys_updated_on>2024-06-22 22:28:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>11</position><sys_created_by>yitschaq.abia</sys_created_by><sys_created_on>2024-06-22 22:28:33</sys_created_on><sys_id>ce4c4bcc93030210c3aff8d32bba105d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section><sys_updated_by>yitschaq.abia</sys_updated_by><sys_updated_on>2024-06-22 22:28:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>insurance</element><position>12</position><sys_created_by>yitschaq.abia</sys_created_by><sys_created_on>2024-06-22 22:28:33</sys_created_on><sys_id>c24c4bcc93030210c3aff8d32bba105e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section><sys_updated_by>yitschaq.abia</sys_updated_by><sys_updated_on>2024-06-22 22:28:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_t</element><position>13</position><sys_created_by>yitschaq.abia</sys_created_by><sys_created_on>2024-06-22 22:47:03</sys_created_on><sys_id>7480db0493430210c3aff8d32bba1026</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1444837_erficc_0_patients" sys_domain="global" view="Default view">c1703d6393720210c3aff8d32bba1032</sys_ui_section><sys_updated_by>yitschaq.abia</sys_updated_by><sys_updated_on>2024-06-22 22:47:03</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1444837_erficc_0_patients</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>david.renteria</sys_created_by><sys_created_on>2024-06-21 02:30:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c1703d6393720210c3aff8d32bba1032</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1444837_erficc_0_patients</sys_name><sys_overrides/><sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package><sys_policy/><sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope><sys_update_name>sys_ui_section_c1703d6393720210c3aff8d32bba1032</sys_update_name><sys_updated_by>david.renteria</sys_updated_by><sys_updated_on>2024-06-21 02:30:25</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1818329477</payload_hash>
+        <record_name>Patients</record_name>
+        <reverted_from/>
+        <source>6788684593720210c3aff8d32bba1020</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>yitschaq.abia</sys_created_by>
+        <sys_created_on>2024-06-22 22:47:03</sys_created_on>
+        <sys_id>c980db0493430210c3aff8d32bba1029</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1904221b5890000001</sys_recorded_at>
+        <sys_updated_by>yitschaq.abia</sys_updated_by>
+        <sys_updated_on>2024-06-22 22:47:03</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>cd80db043f4302102bd9791626e6c528</update_guid>
+        <update_guid_history>cd80db043f4302102bd9791626e6c528:1818329477,c24c4bcc610302106b0b11da2526f160:-650196181,094b0b8c8403021042f79c06cd585602:1706156993,9170f127cf7202105d47185157393aa0:1495984686,81703d63d3720210bdfd68cb8fc1d935:-2071895888</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-23 00:42:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>0f93cfe3d26846a48145d234e4d2b4a4</sys_id>
+        <sys_metadata>c1703d6393720210c3aff8d32bba1032</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1444837_erficc_0_patients</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_parent display_value="">f660fde393720210c3aff8d32bba1037</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_scope_delete display_value="">10d1870a20a44b9c85631c7f5ccdab90</sys_scope_delete>
+        <sys_update_name>sys_ui_section_c1703d6393720210c3aff8d32bba1032</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_c1703d6393720210c3aff8d32bba1032">c980db0493430210c3aff8d32bba1029</sys_update_version>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-23 00:42:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

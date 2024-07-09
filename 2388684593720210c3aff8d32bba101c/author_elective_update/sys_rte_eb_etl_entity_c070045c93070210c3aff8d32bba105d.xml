@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity">
+    <sys_rte_eb_etl_entity action="DELETE">
+        <child_id_field/>
+        <name>Source_x_1444837_erficc_0_ihub_import_f360005c93070210c3aff8d32bba10e3</name>
+        <parent_entity/>
+        <parent_id_field/>
+        <path/>
+        <run_business_rules>false</run_business_rules>
+        <synchronize_inserts>false</synchronize_inserts>
+        <sys_class_name>sys_rte_eb_etl_entity</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-23 02:16:27</sys_created_on>
+        <sys_id>c070045c93070210c3aff8d32bba105d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Source_x_1444837_erficc_0_ihub_import_f360005c93070210c3aff8d32bba10e3</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Patients Data Mapping_etl_ihub">c070045c93070210c3aff8d32bba1052</sys_rte_eb_definition>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_entity_c070045c93070210c3aff8d32bba105d</sys_update_name>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-23 02:16:27</sys_updated_on>
+        <table>x_1444837_erficc_0_ihub_import_f360005c93070210c3aff8d32bba10e3</table>
+    </sys_rte_eb_etl_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ERficciency">2388684593720210c3aff8d32bba101c</application>
+        <file_path/>
+        <instance_id>d143b0b1dbb93dd0199b172913961986</instance_id>
+        <instance_name>dev182463</instance_name>
+        <name>sys_rte_eb_etl_entity_c070045c93070210c3aff8d32bba105d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity"><sys_rte_eb_etl_entity action="INSERT_OR_UPDATE"><child_id_field/><name>Source_x_1444837_erficc_0_ihub_import_f360005c93070210c3aff8d32bba10e3</name><parent_entity/><parent_id_field/><path/><run_business_rules>false</run_business_rules><synchronize_inserts>false</synchronize_inserts><sys_class_name>sys_rte_eb_etl_entity</sys_class_name><sys_created_by>david.renteria</sys_created_by><sys_created_on>2024-06-23 02:16:27</sys_created_on><sys_id>c070045c93070210c3aff8d32bba105d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Source_x_1444837_erficc_0_ihub_import_f360005c93070210c3aff8d32bba10e3</sys_name><sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package><sys_policy/><sys_rte_eb_definition display_value="Patients Data Mapping_etl_ihub">c070045c93070210c3aff8d32bba1052</sys_rte_eb_definition><sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope><sys_update_name>sys_rte_eb_etl_entity_c070045c93070210c3aff8d32bba105d</sys_update_name><sys_updated_by>david.renteria</sys_updated_by><sys_updated_on>2024-06-23 02:16:27</sys_updated_on><table>x_1444837_erficc_0_ihub_import_f360005c93070210c3aff8d32bba10e3</table></sys_rte_eb_etl_entity></record_update>]]></payload>
+        <payload_hash>1271008725</payload_hash>
+        <record_name>Source_x_1444837_erficc_0_ihub_import_f360005c93070210c3aff8d32bba10e3</record_name>
+        <reverted_from/>
+        <source>6788684593720210c3aff8d32bba1020</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-23 02:16:27</sys_created_on>
+        <sys_id>8070045c93070210c3aff8d32bba105f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19042e168d80000001</sys_recorded_at>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-23 02:16:27</sys_updated_on>
+        <type>ETL Entity</type>
+        <update_guid>c470045c870702103e76eb8401efb75e</update_guid>
+        <update_guid_history>c470045c870702103e76eb8401efb75e:1271008725</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-23 02:23:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_entity">sys_rte_eb_etl_entity</sys_db_object>
+        <sys_id>0072109c289a4446900d26b5b57b6024</sys_id>
+        <sys_metadata>c070045c93070210c3aff8d32bba105d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Source_x_1444837_erficc_0_ihub_import_f360005c93070210c3aff8d32bba10e3</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_scope_delete display_value="">10d1870a20a44b9c85631c7f5ccdab90</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_entity_c070045c93070210c3aff8d32bba105d</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_entity_c070045c93070210c3aff8d32bba105d">8070045c93070210c3aff8d32bba105f</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-23 02:23:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

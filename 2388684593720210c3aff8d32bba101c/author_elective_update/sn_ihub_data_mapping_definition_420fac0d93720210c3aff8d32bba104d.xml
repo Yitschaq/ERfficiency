@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition">
+    <sn_ihub_data_mapping_definition action="DELETE">
+        <integration_table>sys_data_source</integration_table>
+        <published_source_structure/>
+        <record_id>ad0fe00d93720210c3aff8d32bba106f</record_id>
+        <source_structure/>
+        <sys_class_name>sn_ihub_data_mapping_definition</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-13 03:19:45</sys_created_on>
+        <sys_id>420fac0d93720210c3aff8d32bba104d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_update_name>sn_ihub_data_mapping_definition_420fac0d93720210c3aff8d32bba104d</sys_update_name>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-13 03:19:49</sys_updated_on>
+    </sn_ihub_data_mapping_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ERficciency">2388684593720210c3aff8d32bba101c</application>
+        <file_path/>
+        <instance_id>d143b0b1dbb93dd0199b172913961986</instance_id>
+        <instance_name>dev182463</instance_name>
+        <name>sn_ihub_data_mapping_definition_420fac0d93720210c3aff8d32bba104d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition"><sn_ihub_data_mapping_definition action="INSERT_OR_UPDATE"><integration_table>sys_data_source</integration_table><published_source_structure/><record_id>ad0fe00d93720210c3aff8d32bba106f</record_id><source_structure/><sys_class_name>sn_ihub_data_mapping_definition</sys_class_name><sys_created_by>david.renteria</sys_created_by><sys_created_on>2024-06-13 03:19:45</sys_created_on><sys_id>420fac0d93720210c3aff8d32bba104d</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package><sys_policy/><sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope><sys_update_name>sn_ihub_data_mapping_definition_420fac0d93720210c3aff8d32bba104d</sys_update_name><sys_updated_by>david.renteria</sys_updated_by><sys_updated_on>2024-06-13 03:19:49</sys_updated_on></sn_ihub_data_mapping_definition></record_update>]]></payload>
+        <payload_hash>1410024597</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>387e48e8d9b13110cedf7dffddb48f09</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-13 03:22:28</sys_created_on>
+        <sys_id>7dafac4d93720210c3aff8d32bba10ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1900f9e44ab0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-13 03:22:28</sys_updated_on>
+        <type>Integration Data Mapping Definition</type>
+        <update_guid>79afac4d6d7202108b10161c3f5bc6ff</update_guid>
+        <update_guid_history>79afac4d6d7202108b10161c3f5bc6ff:0,b1afac4d3d720210136ee57bdaa4b0fd:0,4b0fe00dde72021002cad1b6636f1d86:-511820446,4a0fac0d4b720210a8402fdc2fadcf4e:809200239</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">71afec4d93720210c3aff8d32bba1003</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-13 03:22:28</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_data_mapping_definition">sn_ihub_data_mapping_definition</sys_db_object>
+        <sys_id>3d32ca01ad124e449ddb0576196a36e4</sys_id>
+        <sys_metadata>420fac0d93720210c3aff8d32bba104d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_scope_delete display_value="">10d1870a20a44b9c85631c7f5ccdab90</sys_scope_delete>
+        <sys_update_name>sn_ihub_data_mapping_definition_420fac0d93720210c3aff8d32bba104d</sys_update_name>
+        <sys_update_version display_value="sn_ihub_data_mapping_definition_420fac0d93720210c3aff8d32bba104d">7dafac4d93720210c3aff8d32bba10ff</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-13 03:22:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="DELETE">
+        <active>true</active>
+        <batch_size>10</batch_size>
+        <description>RTE definition for Patients Data Mapping</description>
+        <name>Patients Data Mapping_rte_ihub</name>
+        <properties/>
+        <robust_transform_engine/>
+        <source_table>x_1444837_erficc_0_ihub_import_e90fe00d93720210c3aff8d32bba106e</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-13 03:19:44</sys_created_on>
+        <sys_id>b50f64c593720210c3aff8d32bba10f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Patients Data Mapping_rte_ihub</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_b50f64c593720210c3aff8d32bba10f2</sys_update_name>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-13 03:19:44</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ERficciency">2388684593720210c3aff8d32bba101c</application>
+        <file_path/>
+        <instance_id>d143b0b1dbb93dd0199b172913961986</instance_id>
+        <instance_name>dev182463</instance_name>
+        <name>sys_robust_import_set_transformer_b50f64c593720210c3aff8d32bba10f2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer"><sys_robust_import_set_transformer action="INSERT_OR_UPDATE"><active>true</active><batch_size>10</batch_size><description>RTE definition for Patients Data Mapping</description><name>Patients Data Mapping_rte_ihub</name><properties/><robust_transform_engine/><source_table>x_1444837_erficc_0_ihub_import_e90fe00d93720210c3aff8d32bba106e</source_table><sys_class_name>sys_robust_import_set_transformer</sys_class_name><sys_created_by>david.renteria</sys_created_by><sys_created_on>2024-06-13 03:19:44</sys_created_on><sys_id>b50f64c593720210c3aff8d32bba10f2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Patients Data Mapping_rte_ihub</sys_name><sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package><sys_policy/><sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope><sys_update_name>sys_robust_import_set_transformer_b50f64c593720210c3aff8d32bba10f2</sys_update_name><sys_updated_by>david.renteria</sys_updated_by><sys_updated_on>2024-06-13 03:19:44</sys_updated_on><verbose>false</verbose></sys_robust_import_set_transformer></record_update>]]></payload>
+        <payload_hash>-1411901598</payload_hash>
+        <record_name>Patients Data Mapping_rte_ihub</record_name>
+        <reverted_from/>
+        <source>387e48e8d9b13110cedf7dffddb48f09</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-13 03:22:28</sys_created_on>
+        <sys_id>b1afac4d93720210c3aff8d32bba10f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1900f9e43cb0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-13 03:22:28</sys_updated_on>
+        <type>Robust Import Set Transformer</type>
+        <update_guid>bdafac4d8b72021023e951edad3bcaf1</update_guid>
+        <update_guid_history>bdafac4d8b72021023e951edad3bcaf1:0,7d0fac0d48720210042cec362e7f1b47:-842874145</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-13 03:22:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_robust_import_set_transformer">sys_robust_import_set_transformer</sys_db_object>
+        <sys_id>06624563b75d4bf0838d889aa40d4900</sys_id>
+        <sys_metadata>b50f64c593720210c3aff8d32bba10f2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Patients Data Mapping_rte_ihub</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_scope_delete display_value="">10d1870a20a44b9c85631c7f5ccdab90</sys_scope_delete>
+        <sys_update_name>sys_robust_import_set_transformer_b50f64c593720210c3aff8d32bba10f2</sys_update_name>
+        <sys_update_version display_value="sys_robust_import_set_transformer_b50f64c593720210c3aff8d32bba10f2">b1afac4d93720210c3aff8d32bba10f2</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-13 03:22:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

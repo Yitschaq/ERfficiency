@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Patients</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Patients</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">d89b8828d9313110cedf7dffddb48f0d</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-23 02:16:17</sys_created_on>
+        <sys_id>b560805c93070210c3aff8d32bba109a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Patients</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_update_name>sys_wizard_answer_b560805c93070210c3aff8d32bba109a</sys_update_name>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-23 02:16:17</sys_updated_on>
+        <table/>
+        <target_url>x_1444837_erficc_0_patients.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ERficciency">2388684593720210c3aff8d32bba101c</application>
+        <file_path/>
+        <instance_id>d143b0b1dbb93dd0199b172913961986</instance_id>
+        <instance_name>dev182463</instance_name>
+        <name>sys_wizard_answer_b560805c93070210c3aff8d32bba109a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Patients</answer><button_label/><dependent_value/><element/><name>Patients</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">d89b8828d9313110cedf7dffddb48f0d</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>david.renteria</sys_created_by><sys_created_on>2024-06-23 02:16:17</sys_created_on><sys_id>b560805c93070210c3aff8d32bba109a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Patients</sys_name><sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package><sys_policy/><sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope><sys_update_name>sys_wizard_answer_b560805c93070210c3aff8d32bba109a</sys_update_name><sys_updated_by>david.renteria</sys_updated_by><sys_updated_on>2024-06-23 02:16:17</sys_updated_on><table/><target_url>x_1444837_erficc_0_patients.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>2065654101</payload_hash>
+        <record_name>Patients</record_name>
+        <reverted_from/>
+        <source>91ea181093220210c3aff8d32bba10d4</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-05-29 07:40:39</sys_created_on>
+        <sys_id>73428cdc93070210c3aff8d32bba1002</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18fc34b3cd80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>33428cdcea070210d3e69e6dd4329602</update_guid>
+        <update_guid_history>33428cdcea070210d3e69e6dd4329602:2065654101</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-23 02:24:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>31c1b715e5524b00b645885ac5686400</sys_id>
+        <sys_metadata>b560805c93070210c3aff8d32bba109a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Patients</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_parent display_value="Task">d89b8828d9313110cedf7dffddb48f0d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_scope_delete display_value="">10d1870a20a44b9c85631c7f5ccdab90</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_b560805c93070210c3aff8d32bba109a</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_b560805c93070210c3aff8d32bba109a">73428cdc93070210c3aff8d32bba1002</sys_update_version>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-23 02:24:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

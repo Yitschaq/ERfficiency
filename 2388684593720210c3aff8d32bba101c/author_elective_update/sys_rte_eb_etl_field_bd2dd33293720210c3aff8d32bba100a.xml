@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="DELETE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>universal_request.number</field>
+        <name>Universal Request</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-19 02:29:52</sys_created_on>
+        <sys_id>bd2dd33293720210c3aff8d32bba100a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Universal Request</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Patient Data Mapping_etl_ihub">192d5b7e93320210c3aff8d32bba1075</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="Target_x_1444837_erficc_0_patient">6d2d933293720210c3aff8d32bba103b</sys_rte_eb_entity>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_bd2dd33293720210c3aff8d32bba100a</sys_update_name>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-19 02:29:52</sys_updated_on>
+    </sys_rte_eb_etl_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ERficciency">2388684593720210c3aff8d32bba101c</application>
+        <file_path/>
+        <instance_id>d143b0b1dbb93dd0199b172913961986</instance_id>
+        <instance_name>dev182463</instance_name>
+        <name>sys_rte_eb_etl_field_bd2dd33293720210c3aff8d32bba100a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field"><sys_rte_eb_etl_field action="INSERT_OR_UPDATE"><coalesce>false</coalesce><coercion_action>create</coercion_action><field>universal_request.number</field><name>Universal Request</name><sys_class_name>sys_rte_eb_etl_field</sys_class_name><sys_created_by>david.renteria</sys_created_by><sys_created_on>2024-06-19 02:29:52</sys_created_on><sys_id>bd2dd33293720210c3aff8d32bba100a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Universal Request</sys_name><sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package><sys_policy/><sys_rte_eb_definition display_value="Patient Data Mapping_etl_ihub">192d5b7e93320210c3aff8d32bba1075</sys_rte_eb_definition><sys_rte_eb_entity display_value="Target_x_1444837_erficc_0_patient">6d2d933293720210c3aff8d32bba103b</sys_rte_eb_entity><sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope><sys_update_name>sys_rte_eb_etl_field_bd2dd33293720210c3aff8d32bba100a</sys_update_name><sys_updated_by>david.renteria</sys_updated_by><sys_updated_on>2024-06-19 02:29:52</sys_updated_on></sys_rte_eb_etl_field></record_update>]]></payload>
+        <payload_hash>-1852112875</payload_hash>
+        <record_name>Universal Request</record_name>
+        <reverted_from/>
+        <source>6788684593720210c3aff8d32bba1020</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-19 02:29:52</sys_created_on>
+        <sys_id>f52dd33293720210c3aff8d32bba100c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1902e5441f60000001</sys_recorded_at>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-19 02:29:52</sys_updated_on>
+        <type>ETL Entity field</type>
+        <update_guid>3d2dd332ca720210ea9893ad825e8b0b</update_guid>
+        <update_guid_history>3d2dd332ca720210ea9893ad825e8b0b:-1852112875</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-21 01:40:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_field">sys_rte_eb_etl_field</sys_db_object>
+        <sys_id>6b76e762362549c9a816b323c6afff29</sys_id>
+        <sys_metadata>bd2dd33293720210c3aff8d32bba100a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Universal Request</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_scope_delete display_value="">10d1870a20a44b9c85631c7f5ccdab90</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_field_bd2dd33293720210c3aff8d32bba100a</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_field_bd2dd33293720210c3aff8d32bba100a">f52dd33293720210c3aff8d32bba100c</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-21 01:40:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

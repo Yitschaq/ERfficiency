@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="New Patient">c082b9a793720210c3aff8d32bba1081</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-21 03:14:28</sys_created_on>
+        <sys_id>e68a312393b20210c3aff8d32bba1040</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.New Patient</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_update_name>sc_cat_item_category_e68a312393b20210c3aff8d32bba1040</sys_update_name>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-21 03:14:28</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ERficciency">2388684593720210c3aff8d32bba101c</application>
+        <file_path/>
+        <instance_id>d143b0b1dbb93dd0199b172913961986</instance_id>
+        <instance_name>dev182463</instance_name>
+        <name>sc_cat_item_category_e68a312393b20210c3aff8d32bba1040</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="New Patient">c082b9a793720210c3aff8d32bba1081</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>david.renteria</sys_created_by><sys_created_on>2024-06-21 03:14:28</sys_created_on><sys_id>e68a312393b20210c3aff8d32bba1040</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.New Patient</sys_name><sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package><sys_policy/><sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope><sys_update_name>sc_cat_item_category_e68a312393b20210c3aff8d32bba1040</sys_update_name><sys_updated_by>david.renteria</sys_updated_by><sys_updated_on>2024-06-21 03:14:28</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1333179562</payload_hash>
+        <record_name>Can We Help You?.New Patient</record_name>
+        <reverted_from/>
+        <source>6788684593720210c3aff8d32bba1020</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-21 03:14:29</sys_created_on>
+        <sys_id>668a312393b20210c3aff8d32bba1044</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19038c9d2290000001</sys_recorded_at>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-21 03:14:29</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>e68a3123dbb20210541748038802d243</update_guid>
+        <update_guid_history>e68a3123dbb20210541748038802d243:-1333179562</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.New Patient">b9eaf52393b20210c3aff8d32bba10e2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-21 03:16:04</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>23e85f100b9949b8858d880323f83990</sys_id>
+        <sys_metadata>e68a312393b20210c3aff8d32bba1040</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.New Patient</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_scope_delete display_value="">10d1870a20a44b9c85631c7f5ccdab90</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_e68a312393b20210c3aff8d32bba1040</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_e68a312393b20210c3aff8d32bba1040">668a312393b20210c3aff8d32bba1044</sys_update_version>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-21 03:16:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="DELETE">
+        <attributes/>
+        <attributes_override>false</attributes_override>
+        <base_table>task</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <default_value>javascript:gs.nowDateTime()</default_value>
+        <default_value_override>true</default_value_override>
+        <dependent/>
+        <dependent_override>false</dependent_override>
+        <display_override>false</display_override>
+        <element>sys_created_on</element>
+        <mandatory>true</mandatory>
+        <mandatory_override>true</mandatory_override>
+        <name>x_1444837_erficc_0_patients</name>
+        <read_only>false</read_only>
+        <read_only_override>false</read_only_override>
+        <reference_qual/>
+        <reference_qual_override>false</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-23 01:09:55</sys_created_on>
+        <sys_id>65317b0893c30210c3aff8d32bba102b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>sys_created_on</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_update_name>sys_dictionary_override_65317b0893c30210c3aff8d32bba102b</sys_update_name>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-23 01:09:55</sys_updated_on>
+    </sys_dictionary_override>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ERficciency">2388684593720210c3aff8d32bba101c</application>
+        <file_path/>
+        <instance_id>d143b0b1dbb93dd0199b172913961986</instance_id>
+        <instance_name>dev182463</instance_name>
+        <name>sys_dictionary_override_65317b0893c30210c3aff8d32bba102b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override"><sys_dictionary_override action="INSERT_OR_UPDATE"><attributes/><attributes_override>false</attributes_override><base_table>task</base_table><calculation/><calculation_override>false</calculation_override><default_value>javascript:gs.nowDateTime()</default_value><default_value_override>true</default_value_override><dependent/><dependent_override>false</dependent_override><display_override>false</display_override><element>sys_created_on</element><mandatory>true</mandatory><mandatory_override>true</mandatory_override><name>x_1444837_erficc_0_patients</name><read_only>false</read_only><read_only_override>false</read_only_override><reference_qual/><reference_qual_override>false</reference_qual_override><sys_class_name>sys_dictionary_override</sys_class_name><sys_created_by>david.renteria</sys_created_by><sys_created_on>2024-06-23 01:09:55</sys_created_on><sys_id>65317b0893c30210c3aff8d32bba102b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>sys_created_on</sys_name><sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package><sys_policy/><sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope><sys_update_name>sys_dictionary_override_65317b0893c30210c3aff8d32bba102b</sys_update_name><sys_updated_by>david.renteria</sys_updated_by><sys_updated_on>2024-06-23 01:09:55</sys_updated_on></sys_dictionary_override></record_update>]]></payload>
+        <payload_hash>-130675313</payload_hash>
+        <record_name>sys_created_on</record_name>
+        <reverted_from/>
+        <source>6788684593720210c3aff8d32bba1020</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-23 01:09:55</sys_created_on>
+        <sys_id>29317b0893c30210c3aff8d32bba1032</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19042a480230000001</sys_recorded_at>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-23 01:09:55</sys_updated_on>
+        <type>Dictionary Entry Override</type>
+        <update_guid>21317b08f9c3021063ec861f40ca6b32</update_guid>
+        <update_guid_history>21317b08f9c3021063ec861f40ca6b32:-130675313,e5317b08f8c3021049ef27edbf00b02d:-1833533276</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-23 02:09:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary_override">sys_dictionary_override</sys_db_object>
+        <sys_id>70ceaff5bd32426888be02069a991c64</sys_id>
+        <sys_metadata>65317b0893c30210c3aff8d32bba102b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_created_on</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_parent display_value="">3bc2b78893c30210c3aff8d32bba10fb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_scope_delete display_value="">10d1870a20a44b9c85631c7f5ccdab90</sys_scope_delete>
+        <sys_update_name>sys_dictionary_override_65317b0893c30210c3aff8d32bba102b</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_override_65317b0893c30210c3aff8d32bba102b">29317b0893c30210c3aff8d32bba1032</sys_update_version>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-23 02:09:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

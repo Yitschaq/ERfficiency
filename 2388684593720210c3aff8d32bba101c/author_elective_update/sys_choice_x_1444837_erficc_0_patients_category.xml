@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="category" table="x_1444837_erficc_0_patients" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <name>x_1444837_erficc_0_patients</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-21 02:13:17</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>category</sys_name>
+            <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+            <sys_update_name>sys_choice_x_1444837_erficc_0_patients_category</sys_update_name>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-21 02:13:17</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cardiology</label>
+            <language>en</language>
+            <name>x_1444837_erficc_0_patients</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 02:29:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 02:29:27</sys_updated_on>
+            <value>Cardiology</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Emergency medicine</label>
+            <language>en</language>
+            <name>x_1444837_erficc_0_patients</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 02:29:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 02:29:28</sys_updated_on>
+            <value>Emergency medicine</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gastroenterology</label>
+            <language>en</language>
+            <name>x_1444837_erficc_0_patients</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 02:29:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 02:29:28</sys_updated_on>
+            <value>Gastroenterology</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Neurology</label>
+            <language>en</language>
+            <name>x_1444837_erficc_0_patients</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 02:29:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 02:29:28</sys_updated_on>
+            <value>Neurology</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Orthopedics</label>
+            <language>en</language>
+            <name>x_1444837_erficc_0_patients</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 02:29:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 02:29:28</sys_updated_on>
+            <value>Orthopedics</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pulmonology</label>
+            <language>en</language>
+            <name>x_1444837_erficc_0_patients</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 02:29:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 02:29:28</sys_updated_on>
+            <value>Pulmonology</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Radiology</label>
+            <language>en</language>
+            <name>x_1444837_erficc_0_patients</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>david.renteria</sys_created_by>
+            <sys_created_on>2024-06-23 02:29:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.renteria</sys_updated_by>
+            <sys_updated_on>2024-06-23 02:29:28</sys_updated_on>
+            <value>Radiology</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

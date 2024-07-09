@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Erficc 0 1718935779657</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1444837_erficc_0_1718935779657</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">57fa80e0d9313110cedf7dffddb48f89</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-21 02:09:40</sys_created_on>
+        <sys_id>d1bb6d6f93320210c3aff8d32bba10cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Erficc 0 1718935779657</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_update_name>sys_db_object_d1bb6d6f93320210c3aff8d32bba10cc</sys_update_name>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-21 02:09:40</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ERficciency">2388684593720210c3aff8d32bba101c</application>
+        <file_path/>
+        <instance_id>d143b0b1dbb93dd0199b172913961986</instance_id>
+        <instance_name>dev182463</instance_name>
+        <name>sys_db_object_d1bb6d6f93320210c3aff8d32bba10cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>Erficc 0 1718935779657</label><live_feed_enabled>false</live_feed_enabled><name>x_1444837_erficc_0_1718935779657</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">57fa80e0d9313110cedf7dffddb48f89</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>david.renteria</sys_created_by><sys_created_on>2024-06-21 02:09:40</sys_created_on><sys_id>d1bb6d6f93320210c3aff8d32bba10cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Erficc 0 1718935779657</sys_name><sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package><sys_policy/><sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope><sys_update_name>sys_db_object_d1bb6d6f93320210c3aff8d32bba10cc</sys_update_name><sys_updated_by>david.renteria</sys_updated_by><sys_updated_on>2024-06-21 02:09:40</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>1483158441</payload_hash>
+        <record_name>Erficc 0 1718935779657</record_name>
+        <reverted_from/>
+        <source>6788684593720210c3aff8d32bba1020</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-21 02:09:41</sys_created_on>
+        <sys_id>e1bbad6f93320210c3aff8d32bba100b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190388e7f4a0000001</sys_recorded_at>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-21 02:09:41</sys_updated_on>
+        <type>Table</type>
+        <update_guid>69bbad6f84320210c1dba1a44903480a</update_guid>
+        <update_guid_history>69bbad6f84320210c1dba1a44903480a:1483158441</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-21 02:13:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>87057516cfbe4c9c8a1351707a7f6b90</sys_id>
+        <sys_metadata>d1bb6d6f93320210c3aff8d32bba10cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Erficc 0 1718935779657</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_scope_delete display_value="">10d1870a20a44b9c85631c7f5ccdab90</sys_scope_delete>
+        <sys_update_name>sys_db_object_d1bb6d6f93320210c3aff8d32bba10cc</sys_update_name>
+        <sys_update_version display_value="sys_db_object_d1bb6d6f93320210c3aff8d32bba10cc">e1bbad6f93320210c3aff8d32bba100b</sys_update_version>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-21 02:13:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="41bd5f3293720210c3aff8d32bba10ae" extends="sys_import_set_row" label="Patient Data Mapping" max_length="40" name="x_1444837_erficc_0_ihub_import_052ddf7e93320210c3aff8d32bba1087" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Email" label="Email" max_length="40" name="u_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Gender" label="Gender" max_length="40" name="u_gender" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Insurance" label="Insurance" max_length="40" name="u_insurance" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Issues" label="Issues" max_length="40" name="u_issues" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Phone Number" label="Phone Number" max_length="40" name="u_phone_number" type="string"/>
+    </element>
+</database>

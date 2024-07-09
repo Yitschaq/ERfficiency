@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="184f62330972021026d907f53695aaf0" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_1444837_erficc_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-06-22 01:43:17</sys_created_on>
+            <sys_id>504f6233e57202109e6bb566ddeb3af1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="9c4f6233bc72021038abac29f935b5f0">184f62330972021026d907f53695aaf0</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-06-22 01:43:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-06-22 01:43:17</sys_created_on>
+            <sys_id>584f623373720210331ac4f9f7bdd6f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="9c4f6233bc72021038abac29f935b5f0">184f62330972021026d907f53695aaf0</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-06-22 01:43:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-06-22 01:43:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>184f62330972021026d907f53695aaf0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+            <sys_update_name>sys_ui_section_184f62330972021026d907f53695aaf0</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-06-22 01:43:17</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal (x_1444837_erficc_0)" name="custom_portal_approval_x_1444837_erficc_0">9c4f6233bc72021038abac29f935b5f0</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ERficciency">2388684593720210c3aff8d32bba101c</application>
+        <file_path/>
+        <instance_id>d143b0b1dbb93dd0199b172913961986</instance_id>
+        <instance_name>dev182463</instance_name>
+        <name>sys_ui_section_184f62330972021026d907f53695aaf0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="184f62330972021026d907f53695aaf0" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_1444837_erficc_0"><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>0</position><sys_created_by>system</sys_created_by><sys_created_on>2024-06-22 01:43:17</sys_created_on><sys_id>504f6233e57202109e6bb566ddeb3af1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="9c4f6233bc72021038abac29f935b5f0">184f62330972021026d907f53695aaf0</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-06-22 01:43:17</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sysapproval</element><position>1</position><sys_created_by>system</sys_created_by><sys_created_on>2024-06-22 01:43:17</sys_created_on><sys_id>584f623373720210331ac4f9f7bdd6f1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="9c4f6233bc72021038abac29f935b5f0">184f62330972021026d907f53695aaf0</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-06-22 01:43:17</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sysapproval_approver</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-06-22 01:43:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>184f62330972021026d907f53695aaf0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sysapproval_approver</sys_name><sys_overrides/><sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package><sys_policy/><sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope><sys_update_name>sys_ui_section_184f62330972021026d907f53695aaf0</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-06-22 01:43:17</sys_updated_on><sys_user/><title>false</title><view display_value="Custom portal (x_1444837_erficc_0)" name="custom_portal_approval_x_1444837_erficc_0">9c4f6233bc72021038abac29f935b5f0</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1663316034</payload_hash>
+        <record_name>Approval</record_name>
+        <reverted_from/>
+        <source>91ea181093220210c3aff8d32bba10d4</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-05-29 07:40:39</sys_created_on>
+        <sys_id>c904a2bc93cb0210c3aff8d32bba1082</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18fc34b3cd80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Form Layout</type>
+        <update_guid>8904a2bc20cb021039f5ee83a0b4a282</update_guid>
+        <update_guid_history>8904a2bc20cb021039f5ee83a0b4a282:-1663316034</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>david.renteria</sys_created_by>
+        <sys_created_on>2024-06-25 03:28:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>08e248e024f44816b2c31324a848fca9</sys_id>
+        <sys_metadata>184f62330972021026d907f53695aaf0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sysapproval_approver</sys_name>
+        <sys_package display_value="ERficciency" source="x_1444837_erficc_0">2388684593720210c3aff8d32bba101c</sys_package>
+        <sys_parent display_value="Sysapproval Approver">70fd84e4d9b13110cedf7dffddb48fc2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ERficciency">2388684593720210c3aff8d32bba101c</sys_scope>
+        <sys_scope_delete display_value="">10d1870a20a44b9c85631c7f5ccdab90</sys_scope_delete>
+        <sys_update_name>sys_ui_section_184f62330972021026d907f53695aaf0</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_184f62330972021026d907f53695aaf0">c904a2bc93cb0210c3aff8d32bba1082</sys_update_version>
+        <sys_updated_by>david.renteria</sys_updated_by>
+        <sys_updated_on>2024-06-25 03:28:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
